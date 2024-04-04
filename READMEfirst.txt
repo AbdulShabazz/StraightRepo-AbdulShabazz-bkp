@@ -39,7 +39,7 @@ Note (22/Nov./2013):
 This version is compatible with a new morphing framework (Temporally variable multi-aspect arbitrary many voices morphing). Because this new framwork is not stable, the new morphing procedures are stored in a separate directory and archived in a different file.
 
 Installation:
-Please set mathab path to the directory where provided m-files are stored.
+Please set matlab path to the directory where provided m-files are stored.l
 
 Test:
 (1) STRAIGHT:
